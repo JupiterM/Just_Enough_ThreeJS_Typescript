@@ -1,0 +1,9 @@
+# NPM
+./node_modules/
+
+# Output Dir
+./dist/
+
+
+# Package.json
+.package-lock.json
