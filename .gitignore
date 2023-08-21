@@ -1,8 +1,8 @@
 # NPM
-node_modules
+/node_modules
 
 # Output Dir
-dist
+/dist
 
 
 # Package.json
