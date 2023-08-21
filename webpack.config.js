@@ -23,6 +23,6 @@ module.exports = {
         clean: true,
     },
     plugins: [new HtmlWebpackPlugin({
-        title: 'Bare to the Bone ThreeJS.'
+        title: 'Just Enough ThreeJS/Typescript.'
     })],
 };
