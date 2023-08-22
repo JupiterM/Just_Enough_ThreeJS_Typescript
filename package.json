@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc && webpack --mode=production",
-    "dev": "tsc && webpack serve --config ./webpack.dev.js --mode=development",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "tsc && webpack serve --config ./webpack.dev.js --mode=development"
   },
   "keywords": [],
   "author": "",
